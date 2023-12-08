@@ -1,6 +1,6 @@
 ## Personal Information:
 
-Full Name: Enter Your Full Name
+Full Name: Vidhi Anand Thacker
 
 Northeastern ID: Enter your Northeastern ID
 
