@@ -2,7 +2,7 @@
 
 Full Name: Vidhi Anand Thacker
 
-Northeastern ID: Enter your Northeastern ID
+Northeastern ID: 002762183
 
 ## Getting Started
 First, fork this repository and clone it to your local machine.
